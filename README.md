@@ -5,16 +5,19 @@ XYZ company deals with sales amongst 8 different categories food. This sales ana
 OData feed- https://services.odata.org/Northwind/Northwind.svc/
 
 ## Here are the general steps for performing data analysis in Power BI:
-1.	Collect Data: Gather the necessary data from various sources such as Excel, databases, or cloud storage. Import this data into Power BI Desktop1.
-2.	Clean the Data: Prepare your data for analysis by handling missing values, removing duplicates, and correcting errors.
-3.	Analyse the Data: Use Power BI's tools to explore and interpret your data. This can include creating visualizations, performing statistical analysis, and identifying trends and patterns1.
-4.	Communicate Results: Share your findings with others by creating reports, dashboards, and presentations within Power BI.
+•	Collect Data: Gather the necessary data from various sources such as Excel, databases, or cloud storage. Import this data into Power BI Desktop1.
+•	Clean the Data: Prepare your data for analysis by handling missing values, removing duplicates, and correcting errors.
+•	Analyse the Data: Use Power BI's tools to explore and interpret your data. This can include creating visualizations, performing statistical analysis, and identifying trends and 
+  patterns1.
+•	Communicate Results: Share your findings with others by creating reports, dashboards, and presentations within Power BI.
 
 ## Sales analysis dashboard includes
 •	Total Sales- $504.17K
 •	Quantity-19K
-•	Total Sales by category, Total sales by country, Total sales by order date- Comparing the company's sales performance with that of competitors to identify areas where the company can improve or differentiate itself
-•	LY Sales, CY Sales, CY & LY comparison column chart- Assessing the performance of individual products or product lines to determine which items are the best sellers and which ones are underperforming.
+•	Total Sales by category, Total sales by country, Total sales by order date- Comparing the company's sales performance with that of competitors to identify areas where the company can 
+  improve or differentiate itself
+•	LY Sales, CY Sales, CY & LY comparison column chart- Assessing the performance of individual products or product lines to determine which items are the best sellers and which ones are 
+  underperforming.
 •	Top 10 customers visuals and top 5 product performance along with the detailed analysis of each food product as per year and country.
 
 ## DAX Expressions:
