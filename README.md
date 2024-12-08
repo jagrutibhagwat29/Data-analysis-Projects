@@ -28,11 +28,15 @@ OData feed- https://services.odata.org/Northwind/Northwind.svc/
 -	YoY growth % = DIVIDE([Var.], [LY Sales (1997)], 0)
 -	LastRefresh = "Report as of date: " & NOW()
 
+## Dashboard:
+![1 Summary of sales analysis report](https://github.com/user-attachments/assets/8877340f-b091-4453-9f1b-94d23078a85e)
+
+
 ## Technical insights:
 -	Total Sales trended down, resulting in a 13.13% decrease between Monday, July 8, 1996 and Monday, April 13, 1998.  
 -	Total Sales started trending down on Wednesday, March 25, 1998, falling by 23.86% ($493.50) in 19 days.  
--	Total Sales dropped from $2,068.50 to $1,575.00 during its steepest decline between Wednesday, March 25, 1998 and Monday, April 13, 
-  1998.  
+-	Total Sales dropped from $2,068.50 to $1,575.00 during its steepest decline between Wednesday, March 25, 1998 and Monday,
+   April 13,1998.  
 -	At $2,27,659.03, USA had the highest Total Sales and was 3,604.00% higher than UK, which had the lowest Total Sales at $6,146.30. 
 -	Across all 6 Country, Total Sales ranged from $6,146.30 to $2,27,659.03. 
 -	At 8236, Beverages had the highest LY Sales (1997) and was 1,485.07% higher than Seafood, which had the lowest LY Sales (1997) at 
