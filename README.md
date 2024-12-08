@@ -5,14 +5,16 @@ XYZ company deals with sales amongst 8 different categories food. This sales ana
 OData feed- https://services.odata.org/Northwind/Northwind.svc/
 
 ## Here are the general steps for performing data analysis in Power BI:
--	Collect Data: Gather the necessary data from various sources such as Excel, databases, or cloud storage. Import this data into PowerBI Desktop.
+-	Collect Data: Gather the necessary data from various sources such as Excel, databases, or cloud storage. Import this data into PowerBI 
+  Desktop.
 -	Clean the Data: Prepare your data for analysis by handling missing values, removing duplicates, and correcting errors.
--Analyse the Data: Use Power BI's tools to explore and interpret your data. This can include creating visualizations, performing statistical analysis, and identifying trends and patterns.
--Communicate Results: Share your findings with others by creating reports, dashboards, and presentations within Power BI.
+- Analyse the Data: Use Power BI's tools to explore and interpret your data. This can include creating visualizations, performing 
+  statistical analysis, and identifying trends and patterns.
+- Communicate Results: Share your findings with others by creating reports, dashboards, and presentations within Power BI.
 
 ## Sales analysis dashboard includes
--	Total Sales- $504.17K
--	Quantity-19K
+-	Total Sales: $504.17K
+-	Quantity: 19K
 -	Total Sales by category, Total sales by country, Total sales by order date- Comparing the company's sales performance with that of 
   competitors to identify areas where the company can improve or differentiate itself
 -	LY Sales, CY Sales, CY & LY comparison column chart- Assessing the performance of individual products or product lines to determine 
@@ -31,19 +33,28 @@ OData feed- https://services.odata.org/Northwind/Northwind.svc/
 ## Dashboard:
 ![1 Summary of sales analysis report](https://github.com/user-attachments/assets/8877340f-b091-4453-9f1b-94d23078a85e)
 
-
-## Technical insights:
+## Insights of summary dashboard:
 -	Total Sales trended down, resulting in a 13.13% decrease between Monday, July 8, 1996 and Monday, April 13, 1998.  
 -	Total Sales started trending down on Wednesday, March 25, 1998, falling by 23.86% ($493.50) in 19 days.  
 -	Total Sales dropped from $2,068.50 to $1,575.00 during its steepest decline between Wednesday, March 25, 1998 and Monday,
    April 13,1998.  
 -	At $2,27,659.03, USA had the highest Total Sales and was 3,604.00% higher than UK, which had the lowest Total Sales at $6,146.30. 
--	Across all 6 Country, Total Sales ranged from $6,146.30 to $2,27,659.03. 
+-	Across all 6 Country, Total Sales ranged from $6,146.30 to $2,27,659.03.
+
+![2 CY vs LY](https://github.com/user-attachments/assets/618cbf7b-dba0-4e7b-ba69-1edd7276c2e0)
+
+## Insights of CY vs LY dashboard:	
 -	At 8236, Beverages had the highest LY Sales (1997) and was 1,485.07% higher than Seafood, which had the lowest LY Sales (1997) at 
   519.60. 
 -	LY Sales (1997) and total CY Sales (1998) are positively correlated with each other. 
 -	Across all 8 Category, LY Sales (1997) ranged from 519.60 to 8236, CY Sales (1998) ranged from 1,947.35 to 23197, and YoY growth % 
-  ranged from -61.00% to 1150.53%.  
+  ranged from -61.00% to 1150.53%.
+
+![3 Details](https://github.com/user-attachments/assets/38b54382-f949-4860-abef-a7aa10770359)
+
+![4 Top customer   product](https://github.com/user-attachments/assets/37d1556e-8f89-4b79-be5c-7119196af1d4)
+
+## Insights of TOp Product/Top customer dashboard:
 -	At $72,515.20, Côte de Blaye had the highest Total Sales and was 221.68% higher than Tarte au sucre, which had the lowest Total Sales 
   at $22,542.50.  
 -	Across all 5 ProductName, Total Sales ranged from $22,542.50 to $72,515.20. 
