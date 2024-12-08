@@ -41,6 +41,7 @@ OData feed- https://services.odata.org/Northwind/Northwind.svc/
 -	At $2,27,659.03, USA had the highest Total Sales and was 3,604.00% higher than UK, which had the lowest Total Sales at $6,146.30. 
 -	Across all 6 Country, Total Sales ranged from $6,146.30 to $2,27,659.03.
 
+
 ![2 CY vs LY](https://github.com/user-attachments/assets/618cbf7b-dba0-4e7b-ba69-1edd7276c2e0)
 
 ## Insights of CY vs LY dashboard:	
@@ -49,8 +50,10 @@ OData feed- https://services.odata.org/Northwind/Northwind.svc/
 -	LY Sales (1997) and total CY Sales (1998) are positively correlated with each other. 
 -	Across all 8 Category, LY Sales (1997) ranged from 519.60 to 8236, CY Sales (1998) ranged from 1,947.35 to 23197, and YoY growth % 
   ranged from -61.00% to 1150.53%.
+ 	
 
 ![3 Details](https://github.com/user-attachments/assets/38b54382-f949-4860-abef-a7aa10770359)
+
 
 ![4 Top customer   product](https://github.com/user-attachments/assets/37d1556e-8f89-4b79-be5c-7119196af1d4)
 
