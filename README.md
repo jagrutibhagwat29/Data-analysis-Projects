@@ -62,4 +62,6 @@ OData feed- https://services.odata.org/Northwind/Northwind.svc/
   at $22,542.50.  
 -	Across all 5 ProductName, Total Sales ranged from $22,542.50 to $72,515.20. 
 
-
+## Conclusion:﻿
+﻿﻿Beverage is the highest selling product at $52,956.15, USA had the highest Total Sales and was 3,636.67% higher than UK, which had the lowest Total Sales at $1,417.20 and across all 6 Country,its Total Sales ranged from $1,417.20 to $52,956.15.﻿﻿
+﻿
