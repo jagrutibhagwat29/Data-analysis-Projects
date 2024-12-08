@@ -6,7 +6,6 @@ OData feed- https://services.odata.org/Northwind/Northwind.svc/
 
 ## Here are the general steps for performing data analysis in Power BI:
 •	Collect Data: Gather the necessary data from various sources such as Excel, databases, or cloud storage. Import this data into Power BI Desktop.
-
 •	Clean the Data: Prepare your data for analysis by handling missing values, removing duplicates, and correcting errors.
 
 •	Analyse the Data: Use Power BI's tools to explore and interpret your data. This can include creating visualizations, performing statistical analysis, and identifying trends and 
